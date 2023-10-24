@@ -8,7 +8,8 @@
 <br />
 
 * 👋 Hi, I’m [@JimmyDaddy](https://github.com/JimmyDaddy)
-* 🌱 I'm 🤩🤩🤩🤩🤩
+* 🌱 I'm a noooooooooooob 🙈🙉🙊🐒
+* 💗 I like 🤩🤩🤩🤩🤩
 
 <!--
 [![Top Langs](https://github-readme-stats-jimmydaddy.vercel.app/api/top-langs/?username=jimmydaddy&size_weight=1&count_weight=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
