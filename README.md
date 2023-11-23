@@ -9,8 +9,6 @@
 <br />
 
 * 👋 Hi, I’m [@JimmyDaddy](https://github.com/JimmyDaddy)
-* 🌱 I'm a noooooooooooob 🙈🙉🙊🐒
-* 💗 I like 🤩🤩🤩🤩🤩
 
 <br />
 
