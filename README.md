@@ -16,6 +16,12 @@
 
 ## Project X
 
+| N | G | H | T |
+| ------- | ------- | ------- |  ------- |
+| ✔️ 📖 ✍️ <br/> ✔️ 📗 ✍️ | ✔️ 👨‍💻 🕹️ <br/> ✔️ 👨‍💻 🎮 | ✔️ 🏡 <br/> ✔️ 🐕 <br/> ✔️ 🐩 <br/> ✅ 🐈 <br/> ✔️ 🐒 <br/> ✔️ 🏍️ <br/> ✔️ 🚲 <br/> ✔️ 🏎️ | ⛰️〰️〰️〰️〰️〰️🏄🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🏝️ <br/> ◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ <br/> ✅ 🛫 🇹🇭 🚌 🛕 🌊 🏝️ <br /> ✅ 🚗 🇨🇳 🚗 ⛰️ 🌊 🏝️ 🎪 🌄  <br /> ✅ 🛬 🇷🇸 🚗 ⛰️ ⛪ 🕌 🏰  <br /> ✅ 🚗 🇲🇪 🚗 ⛰️ 🌊 🌴 🌅 🏞️ <br/> ✅ 🚗 🇧🇦 🚗 ⛰️ 🏙️ ⛪ 🕌 🏰 <br/> ✔️ 🛬 🇳🇿 🚗 ⛰️ 🌊 🌴 🌋 🌄 <br/> ✔️ 🛫 🇳🇴 🚐 🏔️ 🌄 🏞️ <br/> ✔️ 🚐 🇸🇪 🚐 🏔️ 🌄  <br/> ✔️ 🚗 🇩🇰 🚗 ⛰️ 🏞️ 🌄 <br/> ✔️ 🚗 🇫🇮 🚗 🏔️ 🏞️ 🌄  <br/> ✔️ 🛫 🇮🇸 🚗 🏔️ 🧊 🌊  <br/> ✔️ 🛬 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🚗 🏔️ 🏞️ <br/> ✔️ 🛫 🇨🇱 🚗 🏜️ 🏞️  
+
+---
+<!--
 ### N
 
 ✔️ 📖 ✍️
@@ -48,6 +54,7 @@
 ✔️ 🛫 🇮🇸 🚗 🏔️ 🧊 🌊  
 ✔️ 🛬 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🚗 🏔️ 🏞️    
 ✔️ 🛫 🇨🇱 🚗 🏜️ 🏞️  
+-->
 
 <!--
 [![JimmyDaddy's wakatime stats](https://github-readme-stats-jimmydaddy.vercel.app/api/wakatime?username=JimmyDaddy&range=last_7_days&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
