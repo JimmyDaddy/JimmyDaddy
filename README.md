@@ -12,6 +12,25 @@
 * 🌱 I'm a noooooooooooob 🙈🙉🙊🐒
 * 💗 I like 🤩🤩🤩🤩🤩
 
+<br />
+
+## Project X
+
+⛰️〰️〰️〰️〰️〰️🏄🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🏝️
+
+✅ 🛫 🇹🇭 🚌 🛕 🌊 🏝️  
+✅ 🚗 🇨🇳 🚗 ⛰️ 🌊 🏝️  
+✅ 🛬 🇷🇸 🚗 ⛰️ ⛪ 🕌  
+✅ 🚗 🇲🇪 🚗 ⛰️ 🌊 🌴  
+✅ 🚗 🇧🇦 🚗 ⛰️ 🏙️ ⛪ 🕌  
+✔️ 🛬 🇳🇿 🚗 ⛰️ 🌊 🌴  
+✔️ 🛫 🇳🇴 🚐 🏔️  
+✔️ 🚐 🇸🇪 🚐 🏔️  
+✔️ 🚗 🇩🇰 🚗 ⛰️  
+✔️ 🚗 🇫🇮 🚗 🏔️  
+✔️ 🛫 🇮🇸 🚗 🏔️ 🧊 🌊  
+✔️ 🛬 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🚗 🏔️  
+✔️ 🛫 🇨🇱 🚗 🏜️  
 
 <!--
 [![JimmyDaddy's wakatime stats](https://github-readme-stats-jimmydaddy.vercel.app/api/wakatime?username=JimmyDaddy&range=last_7_days&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
